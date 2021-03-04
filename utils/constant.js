@@ -1,0 +1,1 @@
+export const WARNA_PUTIH = '#FDFDFD'
